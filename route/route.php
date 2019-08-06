@@ -9,7 +9,6 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-Route::resource('student/training_scheme', 'student/TrainingScheme')
-  ->middleware('CORS');
+Route::resource('student/training_scheme', 'student/TrainingScheme');
 
 return [];
