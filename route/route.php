@@ -10,5 +10,6 @@
 // +----------------------------------------------------------------------
 
 Route::resource('student/training_scheme', 'student/TrainingScheme');
+Route::resource('course/course_score_info', 'course/CourseScoreInfo');
 
 return [];
