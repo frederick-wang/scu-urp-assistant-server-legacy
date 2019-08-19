@@ -10,6 +10,7 @@
 // +----------------------------------------------------------------------
 
 Route::resource('student/training_scheme', 'student/TrainingScheme');
+Route::resource('student/bachelor_degree_types', 'student/bachelorDegreeTypes');
 Route::resource('student/course_score_infos', 'student/StudentCourseScoreInfos');
 Route::resource('course/course_score_info', 'course/CourseScoreInfo');
 Route::resource('course/course_score_infos', 'course/CourseScoreInfos');
