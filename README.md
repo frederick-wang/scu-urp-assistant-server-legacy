@@ -1,4 +1,4 @@
-# 四川大学综合教务系统助手后端
+# 四川大学综合教务系统助手后端（旧版）
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D5.6-8892BF.svg)](http://www.php.net/)
 [![License](https://poser.pugx.org/topthink/framework/license)](https://packagist.org/packages/topthink/framework)
